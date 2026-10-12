@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial;
+    background: #eef2f7;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: navy;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background: navy;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
